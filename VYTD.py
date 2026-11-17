@@ -1,6 +1,4 @@
 # Tema 1: Variables y Tipos de Datos
-# (El archivo original tenía un error: 'Christian' sin comillas y faltaba cerrar el paréntesis)
-
 edad = 21 # int
 promedio = 4.5 # float
 nombre = "Ana" # str
